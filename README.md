@@ -1,5 +1,5 @@
 # 🎈 Balloon — DOM Events Practice
-
+Live Site URL: https://antonina-kachusova.github.io/Balloon-DOM-Events/
 A small interactive project to practice **DOM Events** in JavaScript. Use the arrow keys or the on-screen buttons to grow/shrink a balloon; at the limit it **pops** with a sound and confetti. Press **Reset** to start over.
 
 ## Features
